@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rohitsahu.sherlockstools">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/scherlockicon"
+        android:supportsRtl="true"
+        android:theme="@style/appTheme">
+        <activity
+            android:name=".RailFence"
+            android:label="Rail Fence Technique"></activity>
+        <activity
+            android:name=".HillCipher"
+            android:label="Hill Cipher" />
+        <activity
+            android:name=".PlayFairCipher"
+            android:label="Play Fair"/>
+        <activity
+            android:name=".CiptherActivity"
+            android:label="Caesar Cipher" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

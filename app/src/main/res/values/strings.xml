@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Sherlock\'s tools</string>
+    <string name="msg">Clasical Cryptography</string>
+    <string name="plainText">Secret message</string>
+    <string name="enc">Encrypt</string>
+    <string name="dec">Decrypt</string>
+    <string name="key">Key</string>
+    <string name="ok">Ok</string>
+    <string-array name="algoList">
+        <item>Caesar Cipher</item>
+        <item>Play Fair Cipher</item>
+        <item>Hill Cipher</item>
+        <item>Rail Fence Technique</item>
+    </string-array>
+    <string-array name="encDec">
+        <item>Encrypt</item>
+        <item>Decrypt</item>
+    </string-array>
+    <string name="hill_desc">In classical cryptography,
+        the Hill cipher is a polygraphic substitution
+        cipher based on linear algebra. Invented by Lester S.
+        Hill in 1929, it was the first polygraphic cipher in
+        which it was practical (though barely) to operate on
+        more than three symbols at once.</string>
+    <string name="rail_desc">
+        Rail Fence Technique, is a Transposition Cipher,
+        it is a simple cipher in which the text is permuted
+        according to the depth of the rail fence, that is a
+        number that decides the number of row(not eaxactly
+        like a matrix) according to which the original
+        message is divided and permutted.
+    </string>
+</resources>
