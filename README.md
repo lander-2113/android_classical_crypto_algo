@@ -5,7 +5,7 @@ which include:
 ## Caesar Cipher
 ![cipher](app/src/main/res/screenshots/caesar_cipher.jpeg)
 ## Play Fair Cipher
-   ![](app/src/main/res/screenshots/home.jpeg)
+   ![](app/src/main/res/screenshots/play_fair.jpeg)
 ## Hill Cipher
    ![](app/src/main/res/screenshots/hill_cipher.jpeg)
 ## Rail Fence Technique
