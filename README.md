@@ -10,4 +10,3 @@ which include:
    ![](app/src/main/res/screenshots/hill_cipher.jpeg)
 ## Rail Fence Technique
    ![](app/src/main/res/screenshots/rail_fence.jpeg)
-*Sherlock's tools because I am a fan!*
